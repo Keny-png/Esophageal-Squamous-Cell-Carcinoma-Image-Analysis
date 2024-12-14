@@ -79,11 +79,11 @@ project_folder/
 │   ├── SCC_512/      
 │   └── segment/ 
 │
-│-- model/
-│   ├── classification.pth          
-│   ├── col_classification.pth     
-│   ├── yolo_best.pt     
-│   └── UnetPlus.pt     
+│-- model/   # Place your pre-trained weights here
+│   ├── classification.pth          # VGG-19
+│   ├── col_classification.pth     # VGG-19
+│   ├── yolo_best.pt     # YOLOv8
+│   └── UnetPlus.pt     # Unet++
 │
 │-- classification.py
 │-- image_resize.py
