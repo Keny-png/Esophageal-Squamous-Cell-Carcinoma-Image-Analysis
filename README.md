@@ -56,14 +56,6 @@ python main.py
    python data.py
    ```
 
-## Dependencies
-
-Install the required dependencies with the following command:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Directory Structure Overview
 
 ```
