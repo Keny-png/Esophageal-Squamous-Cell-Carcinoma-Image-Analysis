@@ -57,7 +57,7 @@ python main.py
    ```
 
 ## Directory Structure Overview
-
+Create the following folder structure, and place the pre-trained models trained using VGG-19, Unet++, and YOLOv8 in the model folder, respectively.
 ```
 project_folder/
 │-- images/
